@@ -14,6 +14,7 @@ When brought back online:
 
 ## Deployed URL & Screenshot
 
+Link to the Deployed URL: https://quiet-crag-62403.herokuapp.com/
 ![screenshot](./screenshot.png)
 
 ## User Story
